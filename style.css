@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: aliceblue;
+}
+
+.container{
+    width: 50%;
+    margin: 50px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.input-field{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+.equal_btn{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    font-size: 2rem;
+    border: 2px solid green;
+}
+.equalButton{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    font-size: 2rem;
+    border: 2px solid green;
+}
+.equalTo{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    font-size: 2rem;
+    border: 2px solid green;
+}
+.equalField{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    font-size: 2rem;
+    border: 2px solid green;
+}
+.equalBox{
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 5px;
+    background-color: white;
+    font-size: 2rem;
+    border: 2px solid green;
+}
